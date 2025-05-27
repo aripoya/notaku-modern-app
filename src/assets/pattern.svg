@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="800px" height="800px" viewBox="0 0 800 800" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Pattern</title>
+    <g id="Pattern" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <circle id="Circle1" fill="#4361EE" opacity="0.1" cx="100" cy="100" r="50"></circle>
+        <circle id="Circle2" fill="#4361EE" opacity="0.1" cx="300" cy="200" r="70"></circle>
+        <circle id="Circle3" fill="#4361EE" opacity="0.1" cx="500" cy="100" r="40"></circle>
+        <circle id="Circle4" fill="#4361EE" opacity="0.1" cx="700" cy="200" r="60"></circle>
+        <circle id="Circle5" fill="#4361EE" opacity="0.1" cx="100" cy="400" r="80"></circle>
+        <circle id="Circle6" fill="#4361EE" opacity="0.1" cx="300" cy="500" r="50"></circle>
+        <circle id="Circle7" fill="#4361EE" opacity="0.1" cx="500" cy="400" r="70"></circle>
+        <circle id="Circle8" fill="#4361EE" opacity="0.1" cx="700" cy="500" r="40"></circle>
+        <circle id="Circle9" fill="#4361EE" opacity="0.1" cx="100" cy="700" r="60"></circle>
+        <circle id="Circle10" fill="#4361EE" opacity="0.1" cx="300" cy="700" r="40"></circle>
+        <circle id="Circle11" fill="#4361EE" opacity="0.1" cx="500" cy="700" r="50"></circle>
+        <circle id="Circle12" fill="#4361EE" opacity="0.1" cx="700" cy="700" r="70"></circle>
+    </g>
+</svg>

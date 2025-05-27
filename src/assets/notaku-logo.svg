@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="800px" height="600px" viewBox="0 0 800 600" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>NotaKu Logo</title>
+    <g id="Logo" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <circle id="Background" fill="#4361EE" cx="400" cy="300" r="200"></circle>
+        <g id="Receipt" transform="translate(300.000000, 200.000000)" fill="#FFFFFF">
+            <rect id="Paper" x="0" y="0" width="200" height="250" rx="10"></rect>
+            <rect id="Line1" x="30" y="40" width="140" height="10" rx="5"></rect>
+            <rect id="Line2" x="30" y="70" width="140" height="10" rx="5"></rect>
+            <rect id="Line3" x="30" y="100" width="140" height="10" rx="5"></rect>
+            <rect id="Line4" x="30" y="130" width="80" height="10" rx="5"></rect>
+            <rect id="Total" x="30" y="180" width="140" height="20" rx="5"></rect>
+        </g>
+        <path d="M400,150 C331.715729,150 276,205.715729 276,274 C276,342.284271 331.715729,398 400,398 C468.284271,398 524,342.284271 524,274 C524,205.715729 468.284271,150 400,150 Z M400,170 C457.273087,170 504,216.726913 504,274 C504,331.273087 457.273087,378 400,378 C342.726913,378 296,331.273087 296,274 C296,216.726913 342.726913,170 400,170 Z" id="Scan" fill="#FFFFFF" fill-rule="nonzero"></path>
+    </g>
+</svg>
